@@ -7,5 +7,6 @@ target 'fff' do
 
   # Pods for fff
   pod 'MJExtension'
+  pod 'MJRefresh'
 
 end

@@ -1,2 +1,3 @@
 ${PODS_ROOT}/Target Support Files/Pods-fff/Pods-fff-frameworks.sh
 ${BUILT_PRODUCTS_DIR}/MJExtension/MJExtension.framework
+${BUILT_PRODUCTS_DIR}/MJRefresh/MJRefresh.framework
