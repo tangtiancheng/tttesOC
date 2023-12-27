@@ -1,6 +1,0 @@
-framework module Pods_fff {
-  umbrella header "Pods-fff-umbrella.h"
-
-  export *
-  module * { export * }
-}
