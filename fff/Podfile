@@ -8,5 +8,6 @@ target 'fff' do
   # Pods for fff
   pod 'MJExtension'
   pod 'MJRefresh'
+  pod 'SDWebImage'
 
 end
